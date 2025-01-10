@@ -14,7 +14,6 @@ I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. 
 ![image](https://github.com/user-attachments/assets/b8711d04-04db-4e2e-bb8a-3912aaaa45d2)
 ![image](https://github.com/user-attachments/assets/91023860-cf04-4175-8422-eb9d49938792)
 ![image](https://github.com/user-attachments/assets/3b9a88f6-bc9b-4c5b-9fc4-52dbbf1135ae)
-![image](https://github.com/user-attachments/assets/4449a7e9-e566-44df-a251-057cce168900)
 ![image](https://github.com/user-attachments/assets/2f84a1a3-4c81-4b5c-b745-b8d213b64409)
 ![image](https://github.com/user-attachments/assets/eebc2aed-32cb-41a1-932c-77f84f83b433)
 ![image](https://github.com/user-attachments/assets/4c8313d7-634f-4c1c-aec3-64c84161f2ae)
