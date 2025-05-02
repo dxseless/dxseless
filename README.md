@@ -6,10 +6,10 @@ I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. 
 ## 🛠️ Skills
 - **Programming Languages:** PHP, JavaScript
 - **Frameworks:** Laravel, Vue.js
-- **Testing:** PHPUnit
-- **Databases:** MySQL, SQLite, Redis
+- **Testing:** PHPUnit, Pest
+- **Databases:** MySQL, SQLite, PostgreSQL, MariaDB, Redis
 - **Tools:** Git, Composer, Docker
-- **Other:** REST API, SOLID, HTTP, HTTPS, -SeMVC Architecture, Eloquent ORM, Clientrver Architecture, HTML, CSS, SCSS, Git
+- **Other:** REST API, SOLID, HTTP, HTTPS, MVC Architecture, Eloquent ORM, Client-Server Architecture, HTML, CSS, SCSS
 - Also, I have B1 level of English:) 
 
 - ![image](https://github.com/user-attachments/assets/a3e103f1-9f12-49d4-95fe-fff0cd29578a)
