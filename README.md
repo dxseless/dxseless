@@ -5,7 +5,7 @@ I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. 
 
 ## 🛠️ Skills
 - **Programming Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, Vue.js
+- **Frameworks:** Laravel, Symfony, Vue.js
 - **Testing:** PHPUnit, Pest
 - **Databases:** MySQL, SQLite, PostgreSQL, MariaDB, Redis
 - **Tools:** Git, Composer, Docker
