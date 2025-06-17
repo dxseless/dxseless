@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. As a beginner in the world of web development, I'm eager to learn, grow, and contribute to meaningful projects. I enjoy building robust, scalable, and efficient backend systems while continuously improving my skills.
+I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. I'm eager to learn, grow, and contribute to meaningful projects. I enjoy building robust, scalable, and efficient backend systems while continuously improving my skills.
 
 ## 🛠️ Skills
 - **Programming Languages:** PHP, JavaScript
