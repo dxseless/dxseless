@@ -28,9 +28,12 @@ I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**. 
 ![image](https://github.com/user-attachments/assets/b0a3172b-f2ff-422c-86d4-8cbb92b6eb0a)
 ![image](https://github.com/user-attachments/assets/65b594d1-6067-498b-9931-1b8f9aa5b83e)
 
-
-
 # GitHub Stats
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxseless&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dxseless&theme=tokyonight" alt="profile"/>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dxseless&theme=tokyonight" alt="repos"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dxseless&theme=tokyonight" alt="most-commit"/>
+  </p>
+</p>
